@@ -1,0 +1,154 @@
+[
+    {
+        "id": "539033e6-b3d8-4eb1-b2de-67c97e5c8e13",
+        "site_name": "Cultura ST MAUR",
+        "description": "Between the 01/07/23 and 11/07/23 the night consumption was not stable passed from 5 to 10 kW. There is one ISMA that is not connected from the 28/04/23 (all the outputs are forced), that the one controlled Ecl and RAC 1&2 or can control General Ecl public and general PC depends if it is ISMA 2 or 3.",
+        "date": "2024-10-08",
+        "status": "To Ask",
+        "ticketAdded": false
+    },
+    {
+        "id": "c810879e-cd7d-450f-8006-ff59ba5d12a6",
+        "site_name": "Cultura DIJON",
+        "description": "From September 24th at 8:40 PM to September 25th at 7:00 AM, there was an overconsumption issue, possibly due to the customer pressing the 'RELANCE 3/1/3' button.",
+        "date": "2024-09-27",
+        "status": "Finished",
+        "ticketAdded": true
+    },
+    {
+        "id": "1af324af-45b7-42df-b0cb-b694c268bee0",
+        "site_name": "Cultura DIJON",
+        "description": "On 03-10-2024, from 01:52 AM to 7:00 AM, overconsumption occurred due to the customer pressing the 'RELANCE 3/1/3' button. Please contact the client, as this is happening regularly, to determine if it is standard site operation or if there is an underlying issue - I think this is wrong and it is possible the use of hot water.",
+        "date": "2024-10-04",
+        "status": "Finished",
+        "ticketAdded": true
+    },
+    {
+        "id": "f7a94a9c-2287-4920-a373-9a7d06c59d25",
+        "site_name": "Cultura LES CLAYES SOUS BOIS (PLAISIR)",
+        "description": "The day 06/10/24 overconsumption during the night.",
+        "date": "2024-10-08",
+        "status": "In Progress",
+        "ticketAdded": false
+    },
+    {
+        "id": "d2bea0ed-35d0-4d00-a881-936d66689385",
+        "site_name": "Cultura PINCE VENT ORMESSON",
+        "description": "The alarm was not activated yesterday so we have overnight consumption 8/10/24. Vincent made a ticket but about the increase in night consumption from the 27/09.",
+        "date": "2024-10-09",
+        "status": "To Ask",
+        "ticketAdded": false
+    },
+    {
+        "id": "2d0030fa-69fc-453e-ab0d-eed1a1af67ae",
+        "site_name": "Cultura TOULON LA GARDE",
+        "description": "Overconsumption the night of the 08/10/24. Overconsumption occurred on the night of 08/10/24. The following devices were active: [1/1/4] Academic lighting, [1/1/6] Screen, [1/1/10] ECL at 33% SDV, and [1/1/16] General PC for music. Additionally, [3/1/5] Relance was triggered shortly before.",
+        "date": "2024-10-09",
+        "status": "To Ask",
+        "ticketAdded": false
+    },
+    {
+        "id": "62ff8ab2-a03e-442d-8745-4384ee81b8e1",
+        "site_name": "Cultura Ginko Bordeaux Lac (neuf)",
+        "description": "The night consumption passed from 6 to 11 kW (08/11/23) and passed from 11 to 16 kW (12/09/24). ",
+        "date": "2024-10-09",
+        "status": "In Progress",
+        "ticketAdded": false
+    },
+    {
+        "id": "2822c680-70c0-4e8d-969c-59eee67a0b8a",
+        "site_name": "Cultura ST AUNES",
+        "description": "Overconsumption the night of the 08/10/24 and the [3/1/5] Relance was triggered.",
+        "date": "2024-10-09",
+        "status": "In Progress",
+        "ticketAdded": false
+    },
+    {
+        "id": "7fb8cc3e-7ac3-441d-862b-b87c92484240",
+        "site_name": "Cultura BREST",
+        "description": "Since a lot ago the site lost the communication with the ISMA so we have HVAC consumptions regularly. I think it needs an intervention.\n\nTicket added: Gr\u00e9gory MARTINEZ (26/08/2024 10:37:00) :\nCourbes de consommation importante car compteur HS.",
+        "date": "2024-10-10",
+        "status": "To Ask",
+        "ticketAdded": false
+    },
+    {
+        "id": "12408c11-1d4e-4cac-b1cf-ac29bd17b35c",
+        "site_name": "Cultura MACON",
+        "description": "Overnight consumption the night of the 10-10-24",
+        "date": "2024-10-14",
+        "status": "Finished",
+        "ticketAdded": true
+    },
+    {
+        "id": "bbadb889-e2a5-4576-8c49-a90344c6a6ec",
+        "site_name": "Cultura VILLENEUVE D ASCQ",
+        "description": "Overnight consumption the nights of the 10 to the 12 of October 24",
+        "date": "2024-10-14",
+        "status": "Finished",
+        "ticketAdded": true
+    },
+    {
+        "id": "53f36d30-7aed-4971-abfe-d43409e1c1cf",
+        "site_name": "Cultura CLAYE SOUILLY",
+        "description": "Overnight consumption from the 10-10-24",
+        "date": "2024-10-14",
+        "status": "In Progress",
+        "ticketAdded": true
+    },
+    {
+        "id": "9fd712ac-2afc-4ea3-bd98-46abb345d916",
+        "site_name": "Cultura SORGUES",
+        "description": "High overnight consumption on 11-10-24 due to the MHS alarm not being activated. Need to call the place to see what happened.",
+        "date": "2024-10-14",
+        "status": "In Progress",
+        "ticketAdded": true
+    },
+    {
+        "id": "5013ff81-6dcf-45d9-90ea-26de9c6cbf3e",
+        "site_name": "Cultura ST PARRES AUX TERTRES - TROYES",
+        "description": "Overnight consumptions but very variables. It seems that the lost of communication with the ETT is the responsible of the problem. There already exists a ticket made by Gregory Martinez saying that we lost communication with the Harmony Master 30/08",
+        "date": "2024-10-16",
+        "status": "Finished",
+        "ticketAdded": false
+    },
+    {
+        "id": "d2cb7cbf-8d2e-4c46-aae8-43890deff21c",
+        "site_name": "Cultura Bethune",
+        "description": "There are night consumptions because the alarm is not working properly from the night of the 14/10/24. Ask the site if there are night operations or if they have been working in the place.",
+        "date": "2024-10-17",
+        "status": "Finished",
+        "ticketAdded": true
+    },
+    {
+        "id": "ee5df9e1-9846-4f48-8663-558d21a7cae9",
+        "site_name": "Cultura VILLENEUVE D ASCQ",
+        "description": "Overconsumption during the night of October 17, 2024, possibly due to the 3/1/5 relance button being pressed. I would like to call the place but I am waiting confirmation from Ana to add this to the ticket.\n\n",
+        "date": "2024-10-21",
+        "status": "Finished",
+        "ticketAdded": true
+    },
+    {
+        "id": "4546f124-7163-46b5-8c5a-fffb49b5f496",
+        "site_name": "Cultura CLAYE SOUILLY",
+        "description": "We have identified overnight energy consumption for the night of 18-10, due to the alarm not being activated.\n\nPlease check if any activities took place (e.g., night labor) or if this was an oversight.",
+        "date": "2024-10-21",
+        "status": "Finished",
+        "ticketAdded": true
+    },
+    {
+        "id": "33adffd2-ee2c-4867-a5bc-19cb2d5109fc",
+        "site_name": "Cultura VILLE LA GRAND",
+        "description": "There have been instances of overconsumption during the night, likely linked to the ETTs running for specific periods. However, communication with the ETTs is intermittently lost, which may contribute to the issue but not consistently. This suggests that another factor may also be involved.\n\nPlease investigate the cause of the overconsumption and confirm whether the ETTs are the sole cause or if other factors are contributing.",
+        "date": "2024-10-21",
+        "status": "To Ask",
+        "ticketAdded": false
+    },
+    {
+        "id": "4e5ef777-02d0-4925-96bb-bb523d4e82c8",
+        "site_name": "Cultura VENETTE",
+        "description": "There is a problem 20-21 Oct because there are overconsumptions at night -> The luminosity is very high when the alarm is ON but thee lights are suposedly to be OFF during this time",
+        "date": "2024-10-22",
+        "status": "Finished",
+        "ticketAdded": true
+    }
+]
